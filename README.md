@@ -1,2 +1,1 @@
-# shipsurvivalgame
-bootcamp7 project2
+# Ship-Survival-game
